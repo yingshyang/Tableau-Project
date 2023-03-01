@@ -1,8 +1,5 @@
-# yisa.GitHub.io
-echo "# yisa.GitHub.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/yingshyang/yisa.GitHub.io.git
-git push -u origin main
+# Children Internet Access at Home in the World
+create a infographic that can find out which country have the lowest number of internet access in children
+Find out the influencing factors on children's Internet access.
+**Software**
+-Tableau
